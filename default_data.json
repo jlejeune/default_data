@@ -16112,6 +16112,18 @@
             "emails": ["joe.keen@hp.com", "joe.keen@hpe.com"]
         },
         {
+            "launchpad_id": "jlejeune",
+            "github_id": "jlejeune",
+            "companies": [
+                {
+                    "company_name": "OVH",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Julien Le Jeune",
+            "emails": ["julien.le-jeune@corp.ovh.com", "julien.le-jeune@ovhcloud.com²"]
+        },
+        {
             "launchpad_id": "jlwhittyos",
             "companies": [
                 {
